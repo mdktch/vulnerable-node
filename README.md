@@ -2,6 +2,7 @@ Vulnerable Node
 ===============
 
 ![Logo](https://raw.githubusercontent.com/cr0hn/vulnerable-node/master/images/logo-small.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmdktch%2Fvulnerable-node.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmdktch%2Fvulnerable-node?ref=badge_shield)
 
 *Vulnerable Node: A very vulnerable web site written in NodeJS*
 
@@ -100,3 +101,6 @@ I took ideas and how to explode it in NodeJS using these references:
 # License
 
 This project is released under license BSD.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmdktch%2Fvulnerable-node.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmdktch%2Fvulnerable-node?ref=badge_large)
